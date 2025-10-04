@@ -1,0 +1,33 @@
+{
+  "files": {
+    "main.css": "/My-Portfolio-V3/static/css/main.58a0c615.css",
+    "main.js": "/My-Portfolio-V3/static/js/main.9ddab3aa.js",
+    "static/media/astuteSoftwares.png": "/My-Portfolio-V3/static/media/astuteSoftwares.e8ecc9a9c55d13c60036.png",
+    "static/media/bigClock.png": "/My-Portfolio-V3/static/media/bigClock.ddcf09f9bcaa6b52ba47.png",
+    "static/media/casecobra.png": "/My-Portfolio-V3/static/media/casecobra.be2bc0b6df942ba91f25.png",
+    "static/media/corcymAcademy.png": "/My-Portfolio-V3/static/media/corcymAcademy.1179d31582c0d1af5687.png",
+    "static/media/TravelCamp.png": "/My-Portfolio-V3/static/media/TravelCamp.9cbab5a5c41321c3fdf1.png",
+    "static/media/AnomalyApp.png": "/My-Portfolio-V3/static/media/AnomalyApp.99b0b1163bcc75ff94e6.png",
+    "static/media/corcym.png": "/My-Portfolio-V3/static/media/corcym.64ff1bf1d83674a60e03.png",
+    "static/media/snowflakes.png": "/My-Portfolio-V3/static/media/snowflakes.0752e3887fc98183acac.png",
+    "static/media/cascade.png": "/My-Portfolio-V3/static/media/cascade.467d24359c07a47d8834.png",
+    "static/media/premote.png": "/My-Portfolio-V3/static/media/premote.f11472f676dfec1d4e64.png",
+    "static/media/chat_to_your_database.png": "/My-Portfolio-V3/static/media/chat_to_your_database.8f7d3b54f5e5a62086f0.png",
+    "static/media/leaves.png": "/My-Portfolio-V3/static/media/leaves.82cd09e1f7e9e4bc79a2.png",
+    "static/media/UnikrewApp_Dash.png": "/My-Portfolio-V3/static/media/UnikrewApp_Dash.e00f15e06e112b841d35.png",
+    "static/media/sun.png": "/My-Portfolio-V3/static/media/sun.a99daee5b521397f9036.png",
+    "static/media/fast_image.png": "/My-Portfolio-V3/static/media/fast_image.4c0caf42be465aaa75cb.png",
+    "static/media/rostock.png": "/My-Portfolio-V3/static/media/rostock.1549c7af1578ff45064d.png",
+    "static/media/MaryamRaheemSoftwareEngineer_CV.pdf": "/My-Portfolio-V3/static/media/MaryamRaheemSoftwareEngineer_CV.2c9b88db5f048264de91.pdf",
+    "static/media/qbsco.png": "/My-Portfolio-V3/static/media/qbsco.7dd7571bc05e5b84b550.png",
+    "static/media/rainDrop.png": "/My-Portfolio-V3/static/media/rainDrop.23607862d3a818aa8d6d.png",
+    "static/media/btc.png": "/My-Portfolio-V3/static/media/btc.9cef039bb60e29921950.png",
+    "index.html": "/My-Portfolio-V3/index.html",
+    "main.58a0c615.css.map": "/My-Portfolio-V3/static/css/main.58a0c615.css.map",
+    "main.9ddab3aa.js.map": "/My-Portfolio-V3/static/js/main.9ddab3aa.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.58a0c615.css",
+    "static/js/main.9ddab3aa.js"
+  ]
+}
